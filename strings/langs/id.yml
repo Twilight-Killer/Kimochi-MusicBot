@@ -1,7 +1,7 @@
 name : 🇮🇩 Indonesia
 
 
-general_1 : "» Balas pesan pengguna atau memberikan nama pengguna/id pengguna."
+general_1 : "» Balas pesan atau berikan username/id pengguna."
 general_2 : "» Terjadi error saat memproses permintaan Anda.\n\nPengecualian : <code>{0}</code>"
 general_3 : "Anda adalah admin anonymous dalam obrolan ini, kembali ke akun pengguna untuk menggunakan saya."
 general_4 : "» Anda tidak memiliki izin untuk mengelola obrolan video.\n\nMuat ulang cache admin melalui /reload"
@@ -94,7 +94,7 @@ start_6 : "😲 <b>ᴛʀᴀᴄᴋ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</b> 😲\n\n📌 <
 help_1 : "Klik tombol dibawah untuk mendapatkan penjelasan tentang perintah spesifik.\nTanyakan keraguan Anda di <a href={0}>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ</a>\n\nSemua perintah digunakan dengan : <code>/</code>"
 help_2 : "Klik tombol di bawah untuk mendapatkan menu bantuan saya di pm Anda."
 
-lang_1 : "» Silakan pilih bahasa yang ingin Anda tetapkan sebagai bahasa default grup ini :"
+lang_1 : "» Silakan pilih bahasa yang ingin Anda terapkan sebagai bahasa default grup ini :"
 lang_2 : "Bahasa berhasil diubah."
 lang_3 : "Gagal mengubah bahasa."
 lang_4 : "Anda sudah menggunakan bahasa yang sama."
@@ -174,8 +174,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>Memulai streaming |</b>\n\n<b>‣ Judul :</b> <a href={0}>{1}</a>\n<b>‣ Durasi :</b> {2} menit\n<b>‣ Diminta oleh :</b> {3}"
-stream_2 : "➲ <b>Memulai streaming |</b>\n\n<b>‣ Tipe streaming :</b> Siaran langsung [URL]\n<b>‣ Diminta oleh :</b> {0}"
+stream_1 : "➲ <b>Memulai Streaming |</b>\n\n<b>‣ Judul :</b> <a href={0}>{1}</a>\n<b>‣ Durasi :</b> {2} menit\n<b>‣ Diminta oleh :</b> {3}"
+stream_2 : "➲ <b>Memulai Streaming |</b>\n\n<b>‣ Tipe streaming :</b> Siaran langsung [URL]\n<b>‣ Diminta oleh :</b> {0}"
 
 
 CLOSE_BUTTON  : "Tutup"
@@ -194,14 +194,14 @@ S_B_9 : "🥀 Dukungan 🥀"
 H_B_1 : "Admin"
 H_B_2 : "Authentikasi"
 H_B_3 : "Broadcash"
-H_B_4 : "Blacklist-Chat"
-H_B_5 : "Blacklist-User"
-H_B_6 : "Saluran-Play"
-H_B_7 : "Global-Ban"
+H_B_4 : "Blacklist Chat"
+H_B_5 : "Blacklist User"
+H_B_6 : "Play Channel"
+H_B_7 : "Global Ban"
 H_B_8 : "Loop"
-H_B_9 : "Pemeliharaan"
+H_B_9 : "Maintenance"
 H_B_10 : "Ping"
-H_B_11 : "Mulai"
+H_B_11 : "Streaming"
 H_B_12 : "Acak"
 H_B_13 : "Mencari"
 H_B_14 : "Lagu"
